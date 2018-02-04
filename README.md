@@ -2,7 +2,7 @@
 
 Android 5.0 版本中新增了CardView，CardView 继承自FrameLayout类，并且可以设置圆角和阴影，使得控件具有立体性，也可以包含其他的布局容器和控件。
 
-![CardView.gif](http://upload-images.jianshu.io/upload_images/2622167-40eb9a05126e0fc8.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![CardView.gif](https://github.com/Siomt/CardViewDemo/blob/master/img/CardView.gif)
 
 
 # 配置build.gradle
