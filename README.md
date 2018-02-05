@@ -219,17 +219,17 @@ public class MainActivity extends AppCompatActivity {
 
 # 相关属性
 
-- app:cardCornerRadius="4dp"     设置圆角半径
-- app:cardElevation="5dp"           设置阴影的大小
-- app:cardMaxElevation="10dp"   设置最大阴影的大小
-- app:cardPreventCornerOverlap="true"    是否使用PreventCornerOverlap
-- app:cardBackgroundColor="@color/colorPrimary"    设置背景颜色
-- app:cardUseCompatPadding="true"  是否使用CompatPadding设置内边距
-- app:contentPadding=""  Card View的padding没有用，要使用这个
-- app:contentPaddingLeft=""   内容的左padding
-- app:contentPaddingTop=""  内容的上padding
-- app:contentPaddingRight=""  内容的右padding
-- app:contentPaddingBottom=""  内容的下padding
+- app:cardCornerRadius="4dp"            &nbsp;&nbsp;  设置圆角半径
+- app:cardElevation="5dp"               &nbsp;&nbsp;  设置阴影的大小
+- app:cardMaxElevation="10dp"           &nbsp;&nbsp;    设置最大阴影的大小
+- app:cardPreventCornerOverlap="true"   &nbsp;&nbsp;   是否使用PreventCornerOverlap
+- app:cardBackgroundColor="@color/colorPrimary"    &nbsp;&nbsp; 设置背景颜色
+- app:cardUseCompatPadding="true"  &nbsp;&nbsp; 是否使用CompatPadding设置内边距
+- app:contentPadding=""  &nbsp;&nbsp;   Card View的padding没有用，要使用这个
+- app:contentPaddingLeft=""   &nbsp;&nbsp;  内容的左padding
+- app:contentPaddingTop=""  &nbsp;&nbsp;    内容的上padding
+- app:contentPaddingRight=""  &nbsp;&nbsp;  内容的右padding
+- app:contentPaddingBottom=""  &nbsp;&nbsp; 内容的下padding
 
 
 
